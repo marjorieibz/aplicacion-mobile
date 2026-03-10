@@ -25,3 +25,9 @@ ANDROID_HOME=/Users/juanhernan/android-sdk ./android/gradlew -p android assemble
 ```
 
 El APK se genera en `android/app/build/outputs/apk/debug/app-debug.apk`.
+
+## Instalación
+
+El APK listo para instalar está disponible en la raíz del repositorio: [`app.apk`](./app.apk).
+
+Descárgalo directamente y ábrelo en tu dispositivo Android (requiere permitir instalación desde fuentes desconocidas).
