@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Post It O Clock</string>
+    <string name="title_activity_main">Post It O Clock</string>
+    <string name="package_name">com.postitoclock.app</string>
+    <string name="custom_url_scheme">com.postitoclock.app</string>
+</resources>
